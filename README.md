@@ -3,7 +3,7 @@
 Store client's personal information
 
 
- /* Copyright 2018 Chi Shing Lee, Ziliang Leon Li, Justin Liang */
+Copyright 2018 Chi Shing Lee, Ziliang Leon Li, Justin Liang 
  
  
 Password: 5623
